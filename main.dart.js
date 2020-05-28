@@ -43179,8 +43179,8 @@ A.n0.prototype={
 ap:function(){return new A.A2(C.p)}}
 A.A2.prototype={
 H:function(a){var t=null,s=u.p
-s=M.M8(t,Q.a33(T.nt(H.c([K.FK(t,new L.kj("assets/img2.jpeg",t,t),t,110),new T.bn(t,40,t,t),new T.cU(C.L,t,t,L.bC("Vinay Kumar",t,t,t,t,t,t,t,A.cM(t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,!0,t,t,t,t,t,t),t,t,4),t),new T.bn(t,25,t,t),new T.cU(C.L,t,t,L.bC("Student.Flutter.web.\n     Loves Movies",t,t,t,t,t,t,t,A.cM(t,t,C.bs,t,t,t,t,t,t,t,t,t,t,t,t,t,!0,t,t,t,t,t,t),t,t,2),t),new T.bn(t,20,t,t),new T.cU(C.L,t,t,T.pL(H.c([N.Pz(new T.bn(25,25,U.wh("assets/gh.png",t,t,t),t),L.bC("GitHub",t,t,t,t,t,t,t,t,t,t,t),new A.Om()),N.Pz(new T.bn(25,25,U.wh("assets/li.png",t,t,t),t),L.bC("LinkedIn",t,t,t,t,t,t,t,t,t,t,t),new A.On())],s),C.cv,C.ay),t),new T.cU(C.L,t,t,T.pL(H.c([N.Pz(new T.bn(25,25,U.wh("assets/fb.png",t,t,t),t),L.bC("Facebook",t,t,t,t,t,t,t,t,t,t,t),t),N.Pz(new T.bn(25,25,U.wh("assets/ig.png",t,t,t),t),L.bC("Instagram",t,t,t,t,t,t,t,t,t,t,t),t)],s),C.cv,C.ay),t)],s),C.cg,C.cv,C.ay),!0),t,t,t,t)
-return new E.yZ(!0,s,t)}}
+s=T.nt(H.c([K.FK(t,new L.kj("assets/img2.jpeg",t,t),t,110),new T.bn(t,40,t,t),new T.cU(C.L,t,t,L.bC("Vinay Kumar",t,t,t,t,t,t,t,A.cM(t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,!0,t,t,t,t,t,t),t,t,4),t),new T.bn(t,25,t,t),new T.cU(C.L,t,t,L.bC("Student.Flutter.web.\n     Loves Movies",t,t,t,t,t,t,t,A.cM(t,t,C.bs,t,t,t,t,t,t,t,t,t,t,t,t,t,!0,t,t,t,t,t,t),t,t,2),t),new T.bn(t,20,t,t),new T.cU(C.L,t,t,T.pL(H.c([N.Pz(new T.bn(25,25,U.wh("assets/gh.png",t,t,t),t),L.bC("GitHub",t,t,t,t,t,t,t,t,t,t,t),new A.Om()),N.Pz(new T.bn(25,25,U.wh("assets/li.png",t,t,t),t),L.bC("LinkedIn",t,t,t,t,t,t,t,t,t,t,t),new A.On())],s),C.cv,C.ay),t),new T.cU(C.L,t,t,T.pL(H.c([N.Pz(new T.bn(25,25,U.wh("assets/fb.png",t,t,t),t),L.bC("Facebook",t,t,t,t,t,t,t,t,t,t,t),t),N.Pz(new T.bn(25,25,U.wh("assets/ig.png",t,t,t),t),L.bC("Instagram",t,t,t,t,t,t,t,t,t,t,t),t)],s),C.cv,C.ay),t)],s),C.cg,C.cv,C.ay)
+return M.M8(t,Q.a33(new E.yZ(!0,s,t),!0),t,t,t,t)}}
 A.Om.prototype={
 $0:function(){return C.aR.B9(window,"https://github.com/vinay1708","vinay1708")},
 $S:70}
