@@ -43789,7 +43789,7 @@ Y.Qv.prototype={
 $0:function(){P.iz("Tap Event")},
 $S:1}
 Y.Qw.prototype={
-$0:function(){return C.ao.jc(window,"assets/11.pdf","_blank")},
+$0:function(){return C.ao.jc(window,"https://drive.google.com/file/d/1R1VAgwwSMacBfc--Jv5D0kSeP4y1N19w/view?usp=sharing","_blank")},
 $S:15}
 M.qg.prototype={
 am:function(){return new M.DH(C.p)}}
